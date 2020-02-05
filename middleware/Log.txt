@@ -1,0 +1,16 @@
+HTTP POST /user/login responded 200 in 2346.7847 ms
+HTTP POST /user/login responded 200 in 79.47840000000001 ms
+HTTP GET /todo responded 200 in 367.2047 ms
+HTTP GET /todo responded 401 in 34.119800000000005 ms
+HTTP POST /task/register responded 404 in 1.3744 ms
+HTTP GET /todo responded 401 in 1.1758 ms
+HTTP POST /user/register responded 200 in 962.8067000000001 ms
+HTTP GET /todo responded 401 in 2.0877 ms
+HTTP GET /todo responded 401 in 0.93 ms
+HTTP GET /todo responded 401 in 0.802 ms
+HTTP POST /user/register responded 200 in 31.5073 ms
+HTTP GET /todo responded 401 in 0.7794000000000001 ms
+HTTP POST /user/login responded 200 in 68.0948 ms
+HTTP GET /todo responded 401 in 30.0733 ms
+HTTP POST /user/login responded 200 in 846.0553 ms
+HTTP GET /todo responded 401 in 31.3705 ms

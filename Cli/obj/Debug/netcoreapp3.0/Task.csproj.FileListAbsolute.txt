@@ -1,0 +1,60 @@
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.exe
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.deps.json
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\25Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.exe
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.deps.json
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\28Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.exe
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.deps.json
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\JANUARI\29Januari RestAPi\Task\obj\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.exe
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.deps.json
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.csproj.CopyComplete
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\FEBRUARI\3Feb\Cli\obj\Debug\netcoreapp3.0\Task.pdb

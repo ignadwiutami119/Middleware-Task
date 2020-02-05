@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TRAININGC#\\FEBRUARI\\3Feb\\Cli\\Task.csproj": {}
+  },
+  "projects": {
+    "D:\\TRAININGC#\\FEBRUARI\\3Feb\\Cli\\Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRAININGC#\\FEBRUARI\\3Feb\\Cli\\Task.csproj",
+        "projectName": "Task",
+        "projectPath": "D:\\TRAININGC#\\FEBRUARI\\3Feb\\Cli\\Task.csproj",
+        "packagesPath": "D:\\Users\\bsi50132\\.nuget\\packages\\",
+        "outputPath": "D:\\TRAININGC#\\FEBRUARI\\3Feb\\Cli\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\bsi50132\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

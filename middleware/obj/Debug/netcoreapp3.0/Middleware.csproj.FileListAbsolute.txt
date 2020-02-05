@@ -1,0 +1,212 @@
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.Manifest.cache
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.xml
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.exe
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.deps.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Middleware.pdb
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.RazorTargetAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\obj\Debug\netcoreapp3.0\Middleware.pdb
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Bogus.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\bsi50129\.vscode\Task Middleware\Middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.exe
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.deps.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Middleware.pdb
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Bogus.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.Manifest.cache
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.xml
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.RazorTargetAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.dll
+D:\Users\bsi50129\.vscode\Middleware\obj\Debug\netcoreapp3.0\Middleware.pdb
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.exe
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.deps.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.runtimeconfig.dev.json
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Middleware.pdb
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Bogus.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.csprojAssemblyReference.cache
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.Manifest.cache
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\staticwebassets\Middleware.StaticWebAssets.xml
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfoInputs.cache
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.AssemblyInfo.cs
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.RazorTargetAssemblyInfo.cache
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.csproj.CopyComplete
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\obj\Debug\netcoreapp3.0\Middleware.pdb
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.AspNetCore.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Extensions.Hosting.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Settings.Configuration.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Sinks.Console.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+D:\TRAININGC#\FEBRUARI\3Feb\middleware\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
